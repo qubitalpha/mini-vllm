@@ -8,9 +8,7 @@ This project implements the systems engineering principles behind production inf
 
 ## Roadmap & Milestones
 
-All master milestones, chapters, study notes, and completion checklists are tracked in the single source of truth:
-
-👉 **[Master Curriculum & Checklist in `learning/README.md`](../learning/README.md)**
+👉 [Master Curriculum & Checklist in learning/README.md](../learning/README.md)
 
 ---
 
